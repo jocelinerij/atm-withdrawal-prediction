@@ -1,4 +1,4 @@
-# 💰 Predictive Modeling of ATM Withdrawals Using Regularized Regression
+# Predictive Modeling of ATM Withdrawals Using Regularized Regression
 
 This project investigates how urban environmental features influence ATM cash withdrawal behavior. Using a dataset of over 22,000 observations, we performed extensive analysis and built predictive models to estimate withdrawal amounts based on area characteristics such as number of shops, ATMs, proximity to downtown, and day of the week.
 
@@ -12,7 +12,7 @@ After rigorous cross-validation and performance comparison, **Ridge Regression**
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 - `Group_14_implementation.ipynb` — Complete Jupyter Notebook containing:
   - Data preprocessing
@@ -22,7 +22,7 @@ After rigorous cross-validation and performance comparison, **Ridge Regression**
 
 ---
 
-## 🛠️ Tools & Libraries Used
+## Tools & Libraries Used
 
 - Python 3.8+
 - `pandas`, `numpy` — data manipulation
