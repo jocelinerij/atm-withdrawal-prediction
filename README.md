@@ -2,7 +2,7 @@
 
 This project investigates how urban environmental features influence ATM cash withdrawal behavior. Using a dataset of over 22,000 observations, we performed extensive analysis and built predictive models to estimate withdrawal amounts based on area characteristics such as number of shops, ATMs, proximity to downtown, and day of the week.
 
-We explored multiple modeling techniques, including:
+I explored multiple modeling techniques, including:
 - Ordinary Least Squares (OLS)
 - Lasso Regression (L1 regularization)
 - Ridge Regression (L2 regularization)
