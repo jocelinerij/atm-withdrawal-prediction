@@ -14,11 +14,11 @@ After rigorous cross-validation and performance comparison, Ridge Regression was
 
 ## Repository Contents
 
-- `Group_14_implementation.ipynb` — Complete Jupyter Notebook containing:
+- `Implementation.ipynb` — Complete Jupyter Notebook containing:
   - Data preprocessing
   - Exploratory Data Analysis (EDA)
   - Model building and evaluation
-- `Group_14_document.pdf` — Formal project report detailing the methodology, analysis, and discussion of findings
+- `Document.pdf` — Formal project report detailing the methodology, analysis, and discussion of findings
 
 ---
 
